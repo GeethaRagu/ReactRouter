@@ -204,6 +204,7 @@ const App = () => {
               <Route path='/career' element={<Career data={data}/>}/>
               <Route path='/guvi' element={<Guvi/>}/>
               <Route path='*' element={<PageNotFound/>}/>
+              <Route path='/' element={<All data={data}/>}/>
           </Routes>
       </BrowserRouter>
     </>
