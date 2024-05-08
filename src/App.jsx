@@ -15,7 +15,7 @@ const App = () => {
     {
       id:1,
       category:"fullstackdevelopment",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp",
       content:"Best Full-Stack Development Project Ideas in 2024",
       author:"By Isha Sharma",
       date:"25 Mar, 2024"
@@ -31,7 +31,7 @@ const App = () => {
     {
       id:3,
       category:"fullstackdevelopment",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp",
       content:"6 Essential Prerequisites For Learning ReactJS",
       author:"By Ramkumar",
       date:"25 Mar, 2024"
@@ -47,7 +47,7 @@ const App = () => {
     {
       id:5,
       category:"fullstackdevelopment",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2021/10/The-Good-Life-GoDaddy-Store-Image-10-768x320.jpg",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
       content:"The Future & Scope of Full-Stack Developers in India",
       author:"By Meghana D",
       date:"16 Apr, 2024"
@@ -55,7 +55,7 @@ const App = () => {
     {
       id:6,
       category:"fullstackdevelopment",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2021/02/Full-Stack-Developer.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/08/Feature-image-Best-Full-Stack-Development-Online-Courses.webp",
       content:"Now Become A Full Stack Developer In 90 Days!",
       author:"By Archana",
       date:"21 Mar, 2024"
@@ -79,7 +79,7 @@ const App = () => {
     {
       id:9,
       category:"datascience",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science.webp",
       content:"Can A Commerce Student Do Data Science?",
       author:"By Saakshi Priyadarshini",
       date:"16 Apr, 2024"
@@ -87,7 +87,7 @@ const App = () => {
     {
       id:10,
       category:"datascience",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/07/Real-World-Data-Science-Examples-2048x1072.webp",
       content:"Roles and Responsibilities of a Data Scientist",
       author:"By Jaishree Tomar",
       date:"16 Apr, 2024"
@@ -103,14 +103,14 @@ const App = () => {
     {
       id:12,
       category:"datascience",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Product-Based-Companies-for-Data-Scientists.webp",
       content:"How Long Would It Take to Learn Data Science?",
       author:"By Meghana D",
       date:"16 Apr, 2024"
     },{
       id:13,
       category:"cybersecurity",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
       content:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       author:"By Tushar Vinocha",
       date:"16 Apr, 2024"
@@ -134,7 +134,7 @@ const App = () => {
     {
       id:16,
       category:"cybersecurity",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
       content:"8 Different Types of Cybersecurity and Threats Involved",
       author:"By Tushar Vinocha",
       date:"08 Sep, 2023"
@@ -142,7 +142,7 @@ const App = () => {
     {
       id:17,
       category:"cybersecurity",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       content:"What is Cybersecurity? Importance and its uses & the growing challenge",
       author:"By Tushar Vinocha",
       date:"04 Oct, 2023"
@@ -150,7 +150,7 @@ const App = () => {
     {
       id:18,
       category:"cybersecurity",
-      image:"https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
+      image:"https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
       content:"Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity",
       author:"By Tushar Vinocha",
       date:"25 Mar, 2024"
